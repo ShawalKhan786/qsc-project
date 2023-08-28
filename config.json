@@ -1,0 +1,82 @@
+[
+  {
+    "id": "id=1",
+    "baseurl": "https://qsc-dev.quasiris.de/api/v1/search/ab/products",
+    "suggestionUrl": "https://qsc-dev.quasiris.de/api/v1/suggest/ab/products?q=",
+    "product": "products",
+    "logo": "https://www.quasiris.de/wp-content/uploads/2017/03/logo.png",
+
+    "document": {
+      "name": "name",
+
+      "url": "https://alexander-buerkle.com/de-de/produkt/?",
+      "sku": "sku",
+
+      "image": "previewImageUrl"
+    }
+  },
+  {
+    "id": "jbn",
+    "baseurl": "https://qsc-dev.quasiris.de/api/v1/search/jbn/qsc-documentation",
+    "suggestionUrl": "https://qsc-dev.quasiris.de/api/v1/suggest/ab/products?q=",
+    "product": "qsc-documentation",
+    "logo": "1.png",
+
+    "document": {
+      "name": "title",
+   
+      "url": "",
+      "sku": "url",
+     
+      "image": ""
+    }
+  },
+  {
+    "id": "wins",
+    "baseurl": "https://qsc-dev.quasiris.de/api/v1/search/wins/basiswissen?",
+    "suggestionUrl": "https://qsc-dev.quasiris.de/api/v1/suggest/ab/products?q=",
+    "product": "basiswissen",
+    "logo": "winss.png",
+
+    "document": {
+      "name": "title_nouns",
+   
+      "url": "",
+      "sku": "",
+     
+      "image": ""
+    }
+  },
+  {
+    "id": "hornbach",
+    "baseurl": "https://qsc-dev.quasiris.de/api/v1/search/hornbach-de/best-keywords",
+    "suggestionUrl": "https://qsc-dev.quasiris.de/api/v1/search/suggest/hornbach-de/best-keywords?q=",
+    "product": "best-keywords",
+    "logo": "hornbachlogo.png",
+
+    "document": {
+      "name": "title",
+
+      "url": "",
+      "sku": "url",
+
+      "image": "image"
+    }
+  },
+  {
+    "id": "openbrewerydb",
+    "baseurl": "https://qsc-dev.quasiris.de/api/v1/search/test-jan/openbrewerydb",
+    "suggestionUrl": "https://qsc-dev.quasiris.de/api/v1/search/suggest/test-jan/openbrewerydb?q=",
+    "product": "openbrewerydb",
+    "logo": "https://heimathafen-bier.de/wp-content/themes/heimathafen-child/heimathafen-logo.svg",
+
+    "document": {
+      "name": "name",
+
+      "url": "",
+      "sku": "website_url",
+
+      "image": ""
+    }
+  }
+]
