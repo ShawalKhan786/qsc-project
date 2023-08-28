@@ -1,4 +1,4 @@
-# qsc-project setup
+# qsc-project setup (node version 16.16.0)
 ```
 yarn install
 ```
